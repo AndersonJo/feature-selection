@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+
+# Python
+*.pyc
+
+# Log
+*.log
